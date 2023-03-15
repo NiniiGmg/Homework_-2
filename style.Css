@@ -1,0 +1,31 @@
+.container {
+    background-color: blue;
+    width: 366px;
+    height: 420px;
+    margin: 150 auto ;
+   background-color: #FAF4EF;
+   border-radius:0px 0px 0px 50px;
+
+}
+
+h1 {
+padding-top: 43px;
+padding-left: 46.11px;
+font-size: 36px;
+color:#4B4B4B;
+
+}
+
+h6 {
+    margin-left: 46.11px;
+    margin-top: 0px;
+    font-size: 24px;
+    color: #737373;
+}
+ 
+img {
+    margin-top: -20px;
+    margin-left: 67;
+    width: 231.13px;
+    height: 285px;
+}
